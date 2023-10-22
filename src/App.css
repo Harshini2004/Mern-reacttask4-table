@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+table{
+  padding: 20px;
+  width: 100%;
+  text-align: center;
+  color:white;
+  background: rgb(25, 7, 7);
+}
+th{
+  padding: 8px;
+  border-bottom: 1px solid white;
+}
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-bottom: 1px solid;
+} */
+
+
+
